@@ -1,0 +1,109 @@
+<div id="merekkendaraan" class="carousel carousel-light slide" data-bs-ride="carousel">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#merekkendaraan" data-bs-slide-to="0" class="active"
+                        aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="1"
+                        aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#myCarousel" data-bs-slide-to="2"
+                        aria-label="Slide 3"></button>
+                </div>
+                <div class="carousel-inner">
+                    <div class="carousel-item merk active">
+                        <div class="card-wrapper container-sm d-flex  justify-content-around">
+                            <div class="card">
+                                <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top"
+                                    alt="...">
+
+                            </div>
+                            <div class="card">
+                                <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top"
+                                    alt="...">
+
+                            </div>
+                            <div class="card">
+                                <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top"
+                                    alt="...">
+
+                            </div>
+                            <div class="card">
+                                <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top"
+                                    alt="...">
+
+                            </div>
+                            <div class="card">
+                                <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top"
+                                    alt="...">
+
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel-item merk">
+                        <div class="card-wrapper container-sm d-flex  justify-content-around">
+                            <div class="card">
+                                <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top"
+                                    alt="...">
+
+                            </div>
+                            <div class="card">
+                                <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top"
+                                    alt="...">
+
+                            </div>
+                            <div class="card">
+                                <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top"
+                                    alt="...">
+
+                            </div>
+                            <div class="card">
+                                <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top"
+                                    alt="...">
+
+                            </div>
+                            <div class="card">
+                                <img src="https://source.unsplash.com/collection/190727/1600x900" class="card-img-top"
+                                    alt="...">
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                    <button class="carousel-control-prev" type="button" data-bs-target="#merekkendaraan"
+                        data-bs-slide="prev">
+                        <!-- <span class="carousel-control-prev-icon" aria-hidden="true"></span> -->
+                        <svg width="34px" height="34px" viewBox="-2.4 -2.4 28.80 28.80" fill="none" stroke="#BD2424">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0">
+                                <rect x="-2.4" y="-2.4" width="28.80" height="28.80" rx="14.4" fill="#fff"
+                                    strokewidth="0"></rect>
+                            </g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path
+                                    d="M16.2426 6.34317L14.8284 4.92896L7.75739 12L14.8285 19.0711L16.2427 17.6569L10.5858 12L16.2426 6.34317Z"
+                                    fill="#BD2424"></path>
+                            </g>
+                        </svg>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#merekkendaraan"
+                        data-bs-slide="next">
+                        <!-- <span class="carousel-control-next-icon" aria-hidden="true"></span> -->
+                        <svg width="34px" height="34px" viewBox="-2.4 -2.4 28.80 28.80" fill="none" stroke="#ff0000">
+                            <g id="SVGRepo_bgCarrier" stroke-width="0">
+                                <rect x="-2.4" y="-2.4" width="28.80" height="28.80" rx="14.4" fill="#fff"
+                                    strokewidth="0"></rect>
+                            </g>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_iconCarrier">
+                                <path stroke="#BD2424" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="m10 7 5 5-5 5"></path>
+                            </g>
+                        </svg>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+
+
+
+            </div>
